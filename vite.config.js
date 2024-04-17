@@ -51,9 +51,9 @@ export default defineConfig(({ mode }) => {
           ],
         },
         manifest: {
-          name: "今日热榜",
+          name: "天天热榜",
           short_name: "DailyHot",
-          description: "汇聚全网热点，热门尽览无余",
+          description: "全网最热资讯榜",
           display: "standalone",
           start_url: "/",
           theme_color: "#fff",
